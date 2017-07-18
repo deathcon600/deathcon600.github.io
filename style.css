@@ -1,0 +1,18 @@
+body {
+	background: orange;
+	font-family: 'Quantico', sans-serif;}
+	
+h1 {
+	background-color: #73FA25;
+	width:700px ;
+	font-family: 'Quantico', sans-serif;
+	}
+img { height: 600px;
+	width: 600px ;
+	}
+.hi {
+	background-color: #D3D3D3;}
+	
+.bye{
+background-color: #7fff00;}
+
